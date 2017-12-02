@@ -1,0 +1,26 @@
+body {
+	background: url("../images/background.jpg");
+	color: #FFFFFF;
+}
+
+.charImageR {
+	width: 150px;
+	border: 3px solid #0000FF;
+	display: inline-block;
+	margin: 15px;
+}
+
+.charImageE {
+	width: 150px;
+	border: 3px solid #FF0000;
+	display: inline-block;
+	margin: 15px;
+}
+
+.victory {
+	width: 100%;
+}
+
+.imgChar {
+	width: 100%;
+}
