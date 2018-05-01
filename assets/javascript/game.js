@@ -4,7 +4,7 @@ $(document).ready(function(){
 	// ----------------------------------
 	var lukeSkywalker = {
 		name: "lukeSkywalker",
-		attack: 3000,
+		attack: 200,
 		defense: 2000,
 		aligance: "rebel",
 		image: "skywalker.jpg"
